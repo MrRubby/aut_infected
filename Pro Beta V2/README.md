@@ -9,16 +9,23 @@ Optimize işlemleri başarılı şekilde yapıldı.
 # Beta Sürümü Özellikleri
 
 Tamamen kolaya kaçılmış bir tasarım.
+
 2 Adet dil seçeneği
+
 Hata bildir (Beta)
+
 Güncelleme sistemi
 
 # Pro Beta Sürümü Özellikleri
 
 Özenilmiş bir tasarıma sahip
+
 Mümkün olduğu şekilde optimize edilmiş
+
 2+2 dil seçeneği eklenmiş
+
 Hata bildir özelliği kaldırımış
+
 Güncelleme sistemi geliştirilmiş
 
 # Anlık Barınan Hileler
