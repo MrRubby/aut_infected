@@ -1,3 +1,8 @@
+| Build server| Platform       | Status      |
+|-------------|----------------|-------------|
+| C#          | Windows        |[Undetected]() |
+
+
 # InfectedUl Pro Beta v2.0.1
 
 Oynadığınız Online-Offline oyunlarda işlerinizi kolaylaştırmak için kodlanmış hileleri barındırmakta olan bir ara sağlayıcı programdır.
