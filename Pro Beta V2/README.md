@@ -36,5 +36,7 @@ ________________________________________________________________________________
 InfectedUI ara sağlayıcısı ile tavsiyeleriniz veya kötü görüşleriniz bildirebilirsiniz.Mümkün olan her tür tavsiyelerinize açığız.
 
 Website: https://www.memoryhackers.net
+
 Profil Website: https://memoryhackers.net/members/frenzy.307142/
+
 Youtube Channel: https://www.youtube.com/channel/UCGamEBZGhaJHzI5mardNU4A?view_as=subscriber
