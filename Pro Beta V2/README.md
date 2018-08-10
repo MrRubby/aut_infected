@@ -1,3 +1,8 @@
+| Build server| Platform       | Status      |
+|-------------|----------------|-------------|
+| C#          | Windows        |[Undetected]() |
+
+
 # InfectedUl Pro Beta v2.0.1
 
 Oynadığınız Online-Offline oyunlarda işlerinizi kolaylaştırmak için kodlanmış hileleri barındırmakta olan bir ara sağlayıcı programdır.
@@ -42,8 +47,11 @@ ________________________________________________________________________________
 
 InfectedUI ara sağlayıcısı ile tavsiyeleriniz veya kötü görüşleriniz bildirebilirsiniz.Mümkün olan her tür tavsiyelerinize açığız.
 
-Website: https://www.memoryhackers.net
 
-Profil Website: https://memoryhackers.net/members/frenzy.307142/
+[![Website](https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-512.png)](https://www.memoryhackers.net)
 
-Youtube Channel: https://www.youtube.com/channel/UCGamEBZGhaJHzI5mardNU4A?view_as=subscriber
+[![Profil](https://cdn4.iconfinder.com/data/icons/linecon/512/photo-512.png)](https://memoryhackers.net/members/frenzy.307142/)
+
+[![Youtube](http://icons-for-free.com/free-icons/png/512/393292.png)](https://www.youtube.com/channel/UCGamEBZGhaJHzI5mardNU4A?view_as=subscriber)
+
+[![Facebook](http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Communication-facebook-icon.png)](https://tr-tr.facebook.com/FrenzyHacks)
