@@ -1,6 +1,6 @@
 {"data":
 [
-  {"icon":"1","id":"0","game":"WolfTeam","server":"TR","cheatname":"xFrenzy Premium Cheat","state":"Updating","version":"1.0.0","dllname":"xfrenzyprecheat.json","exename":"Wolfteam.bin","isexternal":"false","thread":"www.google.com.tr" 
+  {"id":"0","game":"WolfTeam","server":"TR","cheatname":"xFrenzy Premium Cheat","state":"Updating","version":"1.0.0","dllname":"xfrenzyprecheat.json","exename":"Wolfteam.bin","isexternal":"false","thread":"www.google.com.tr" 
   },
   {"id":"1","game":"Wolfteam","server":"TR","cheatname":"iLite Cheat","state":"Beta Test","version":"1.0.0","dllname":"ilitecheat.json","exename":"Wolfteam.bin","isexternal":"false","thread":"www.memoryhackers.net" 
   },
