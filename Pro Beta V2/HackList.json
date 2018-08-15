@@ -9,6 +9,8 @@
   {"id":"3","game":"Counter-Strike:Global Offensive","server":"Steam","cheatname":"xCheatNonPanorama","state":"Updating","version":"1.0.0","dllname":"xchnonpanorama.json","exename":"csgo","isexternal":"true","thread":"www.memoryhackers.net" 
   },
   {"id":"4","game":"Counter-Strike:Global Offensive","server":"Steam","cheatname":"xCheatPanorama","state":"Updating","version":"1.0.0","dllname":"xchpanorama.json","exename":"Wolfteam.bin","isexternal":"true","thread":"www.memoryhackers.net" 
+  },
+  {"id":"5","game":"Team Fortress 2","server":"Steam","cheatname":"SH Hack","state":"Beta Test","version":"1.0.0","dllname":"shack.json","exename":"hl2","isexternal":"false","thread":"www.memoryhackers.net" 
   }
 
 ]
